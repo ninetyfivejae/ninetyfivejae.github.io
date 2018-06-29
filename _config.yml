@@ -1,14 +1,14 @@
-title:             Otaki Steak & Cheese Pie
+title:             Boredom
 email:             jh33836782@gmail.com
-description:       tlswogur
+description:       Otaki Steak & Cheese Pie
 author:            ninetyfivejae
 baseurl:           "/"
 url:               "https://ninetyfivejae.github.io/"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:
+github_username:   ninetyfivejae
+facebook_username:
 
 # Build settings
 markdown:          kramdown
